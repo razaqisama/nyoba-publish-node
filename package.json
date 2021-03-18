@@ -1,0 +1,23 @@
+{
+  "name": "nyoba-publish-node",
+  "version": "1.0.0",
+  "description": "nyobain publish ke npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razaqisama/nyoba-publish-node.git"
+  },
+  "keywords": [
+    "nyoba",
+    "publish"
+  ],
+  "author": " <razaqisama>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razaqisama/nyoba-publish-node/issues"
+  },
+  "homepage": "https://github.com/razaqisama/nyoba-publish-node#readme"
+}
